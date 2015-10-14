@@ -34,3 +34,7 @@ Fix the major bugs preventing basic functionality
 Implement dynamic links (for things such as locked doors and other obstacles)
 Implement wall nodes
 Implement wall-scaling nodes (for wall-climbing/jumping and ledge climbing)
+
+# License
+
+For now, consider it under the [Creative Commons Attribution 4.0 license.](http://creativecommons.org/licenses/by/4.0/), with some minor caveats - long and short, feel free to use it in any of your game projects, but you can't sell it as an asset, or as an important part of a larger asset.
