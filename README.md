@@ -37,4 +37,4 @@ Implement wall-scaling nodes (for wall-climbing/jumping and ledge climbing)
 
 # License
 
-For now, consider it under the [Creative Commons Attribution 4.0 license.](http://creativecommons.org/licenses/by/4.0/), with some minor caveats - long and short, feel free to use it in any of your game projects, but you can't sell it as an asset, or as an important part of a larger asset.
+[Attribution-NonCommercial-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode) with [simple explanation.](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US) You are free to use the CharacterController2D in any and all games that you make. You cannot sell the CharacterController2D directly or as part of a larger game asset.
